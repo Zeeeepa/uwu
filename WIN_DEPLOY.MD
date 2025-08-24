@@ -76,7 +76,7 @@ $configContent = @"
   "type": "Custom",
   "model": "deepseek-coder",
   "baseURL": "https://api.deepseek.com/v1",
-  "apiKey": "sk-915975a658dd4f61b6a76af702d06b35",
+  "apiKey": "sk-915975a658dd4f61s",
   "clipboard": true,
   "context": {
     "enabled": true,
